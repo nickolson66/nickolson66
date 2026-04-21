@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nick Olson 👋
 
-<!--
-**nickolson66/nickolson66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support professional transitioning into Cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
+- L1/L2 IT Support at an MSP
+- Passionate about cybersecurity and hands-on labs
+- Building real-world security projects at home
+- Interested in SOC Analyst and Security Analyst roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Windows Support
+- Active Directory
+- Office 365
+- Networking
+- Troubleshooting
+- Splunk
+- Sysmon
+- Virtual Machines
+- Linux Basics
+
+## Projects
+- Home SOC Lab (Splunk + Sysmon + Kali + Windows)
+- Pi-hole DNS Sinkhole
+- Raspberry Pi Projects
+- Security Dashboards & Detection Queries
+
+## Currently Learning
+- Threat Detection
+- SIEM Engineering
+- Incident Response
+- Python / PowerShell Automation
+
+## Connect With Me
+- LinkedIn: (add your link here)

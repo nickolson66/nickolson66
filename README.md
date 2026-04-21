@@ -32,4 +32,4 @@ IT Support professional transitioning into Cybersecurity.
 - Python / PowerShell Automation
 
 ## Connect With Me
-- LinkedIn: (add your link here)
+- LinkedIn: (https://www.linkedin.com/in/nicholas-olson-148a37230/)

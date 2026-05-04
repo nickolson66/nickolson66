@@ -1,9 +1,9 @@
 # Hi, I'm Nick Olson 👋
 
-IT Support professional transitioning into Cybersecurity.
+IT Support professional with Cybersecurity expertise.
 
 ## About Me
-- L1/L2 IT Support at an MSP
+- L1 IT Support at an MSP
 - Passionate about cybersecurity and hands-on labs
 - Building real-world security projects at home
 - Interested in SOC Analyst and Security Analyst roles

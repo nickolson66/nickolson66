@@ -8,7 +8,6 @@ IT Support / Systems professional with experience in enterprise infrastructure, 
 * 5+ years of IT support and systems experience across MSP and enterprise environments
 * Passionate about security operations, automation, and infrastructure security
 * Building real-world labs and automation projects focused on monitoring, detection, and system administration
-* Interested in Systems Engineering, SOC Analyst, and Security Operations roles
 
 ## Technical Skills
 
